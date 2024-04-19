@@ -1,8 +1,8 @@
 
 <img src="./img/Free-GPT4-LOGO_(icon_by_vectorsmarket15).png" width="500" height="200" />
 
-[![Docker Image CI](https://github.com/aledipa/Free-GPT4-WEB-API/actions/workflows/docker-image.yml/badge.svg)](https://github.com/aledipa/Free-GPT4-WEB-API/actions/workflows/docker-image.yml)
-[![GPT4-API-PyApp](https://github.com/aledipa/Free-GPT4-WEB-API/actions/workflows/python-app.yml/badge.svg)](https://github.com/aledipa/Free-GPT4-WEB-API/actions/workflows/python-app.yml)
+[![Docker Image CI](https://github.com/brankopoledic/Free-GPT4-WEB-API/actions/workflows/docker-image.yml/badge.svg)](https://github.com/brankopoledic/Free-GPT4-WEB-API/actions/workflows/docker-image.yml)
+[![GPT4-API-PyApp](https://github.com/brankopoledic/Free-GPT4-WEB-API/actions/workflows/python-app.yml/badge.svg)](https://github.com/brankopoledic/Free-GPT4-WEB-API/actions/workflows/python-app.yml)
 
 # Free-GPT4-WEB-API
 
@@ -124,7 +124,7 @@ The server can be configured by editing the `FreeGPT4_Server.py` file. You can c
 
 ## Main Libraries
 
-FreeGPT4-WEB-API uses the Flask and GPT4Free libraries. Flask is a micro web framework for Python that allows you to easily create web applications. GPT4Free is a library that provides an interface to the Bing's GPT-4, credits to [@xtekky's GPT4Free](https://github.com/xtekky/gpt4free).
+FreeGPT4-WEB-API uses the Flask and GPT4Free libraries. Flask is a micro web framework for Python that allows you to easily create web applications. GPT4Free is a library that provides an interface to the Bing's GPT-4
 
 ## Notes
 
