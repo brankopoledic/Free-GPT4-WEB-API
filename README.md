@@ -67,8 +67,6 @@ Options:
                         Use a system prompt to 'customize' the answers
 
 
-If you want to use it with curl (credits to [@ayoubelmhamdi](https://github.com/ayoubelmhamdi)):
-
 ```shell
 fileTMP="$1"
 curl -s -F file=@"${fileTMP}" http://127.0.0.1:5500/
